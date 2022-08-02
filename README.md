@@ -1,65 +1,65 @@
-# Give Me the Goods: More Introductory SQL Queries
+# Give Me the Goods: More Introductory SQL Queries `COMPLETED LAB`
 
 ## Like
 
-### Wildcards (Regex)
-Select all records from the **Students** table where the second letter of the **City** is an "a".
+### Wildcards (Regex) `COMPLETED`
+Select all records from the **Students** table where the second letter of the **City** is an "a". `DONE`
 
-*(Add your query to the file exercise1.sql)*
-
-
-Select all records from the **Students** table where the first letter of the **City** is an "a" or a "c" or an "s".
+*(Add your query to the file exercise1.sql)* `DONE` 
 
 
-*(Add your query to the file exercise2.sql)*
+Select all records from the **Students** table where the first letter of the **City** is an "a" or a "c" or an "s". `DONE`
 
 
-Select all from the **Students** table records where the first letter of the **City** starts with anything from an "a" to an "f".
+*(Add your query to the file exercise2.sql)* `DONE`
 
 
-*(Add your query to the file exercise3.sql)*
+Select all from the **Students** table records where the first letter of the **City** starts with anything from an "a" to an "f". `DONE`
 
 
-Select all records from the **Students** table where the first letter of the **City** is NOT an "a" or a "c" or an "f".
+*(Add your query to the file exercise3.sql)* `DONE`
 
 
-*(Add your query to the file exercise4.sql)*
+Select all records from the **Students** table where the first letter of the **City** is NOT an "a" or a "c" or an "f".`DONE`
 
 
-## IN
-Use the **IN** operator to select all the records from the **Students** table where **Country** is either "Sint Maarten" or "Haiti".
-
-*(Add your query to the file exercise5.sql)*
+*(Add your query to the file exercise4.sql)* `DONE`
 
 
-Use the **IN** operator to select all the records from the **Students** table where **Country** is NOT "Sint Maarten" and NOT "Haiti".
+## IN `COMPLETED`
+Use the **IN** operator to select all the records from the **Students** table where **Country** is either "Sint Maarten" or "Haiti".`DONE`
 
-*(Add your query to the file exercise6.sql)*
+*(Add your query to the file exercise5.sql)* `DONE`
+
+
+Use the **IN** operator to select all the records from the **Students** table where **Country** is NOT "Sint Maarten" and NOT "Haiti". 'DONE'
+
+*(Add your query to the file exercise6.sql)* DONE`
  
-## Between values
+## Between values `COMPLETED`
 
-Use the **BETWEEN** operator to select all the records from the **Courses** table where the value of the **CreditHours** column is between 10 and 20.
+Use the **BETWEEN** operator to select all the records from the **Courses** table where the value of the **CreditHours** column is between 10 and 20. `DONE`
 
-*(Add your query to the file exercise7.sql)*
+*(Add your query to the file exercise7.sql)* `DONE`
 
-Use the **BETWEEN** operator to select all the records from the **Courses** table where the value of the **CreditHours** column is NOT between 10 and 20.
-
-
-*(Add your query to the file exercise8.sql)*
-
-Use the **BETWEEN** operator to select all the records from the **Courses** table where the value of the **CourseName** column is alphabetically between 'ColdFusion' and 'Python'.
+Use the **BETWEEN** operator to select all the records from the **Courses** table where the value of the **CreditHours** column is NOT between 10 and 20. `DONE`
 
 
-*(Add your query to the file exercise9.sql)*
+*(Add your query to the file exercise8.sql)* `DONE`
 
-## Aliases
-
-When displaying the **Students** table, make an alias of the **PostalCode** column, the column should be called **Zip** instead.
+Use the **BETWEEN** operator to select all the records from the **Courses** table where the value of the **CourseName** column is alphabetically between 'ColdFusion' and 'Python'. `DONE`
 
 
-*(Add your query to the file exercise10.sql)*
+*(Add your query to the file exercise9.sql)* `DONE`
+
+## Aliases `COMPLETED`
+
+When displaying the **Students** table, make an alias of the **PostalCode** column, the column should be called **Zip** instead. `DONE`
 
 
-When displaying the **Students** table, refer to the table as **Learners** instead of Students.
+*(Add your query to the file exercise10.sql)* `DONE`
 
-*(Add your query to the file exercise11.sql)*
+
+When displaying the **Students** table, refer to the table as **Learners** instead of Students. `DONE`
+
+*(Add your query to the file exercise11.sql)* `DONE`
